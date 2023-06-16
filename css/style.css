@@ -76,6 +76,19 @@
 }
 
 
+.textForm2 {
+    width: 13vw;
+    font-size: 30px;
+    border-radius: 50px;
+    margin-bottom: 400px;
+}
+
+.text1 {
+    margin-top: 300px;
+    text-align: center;
+}
+
+
 .btnForm {
     background-color: brown;
     width: 13vw;
@@ -91,12 +104,61 @@
 
 }
 
+.btnForm2 {
+    background-color: white;
+    width: 14vw;
+    font-size: 30px;
+    border-radius: 40px;
+    font-family: fantasy;
+}
+
 .btnForm:hover {
     background-color: rgb(255, 0, 0);
     color: white;
     cursor: pointer;
     width: 15vw;
 }
+
+.btnForm3 {
+    background-color: brown;
+    width: 15vw;
+    font-size: 30px;
+    border-radius: 40px;
+    font-family: fantasy;
+    color: khaki;
+    transition: 0.5s;
+    margin-top: 820px;
+    margin-left: 500px
+    
+
+
+}
+
+.btnForm3:hover {
+    background-color: rgb(255, 0, 0);
+    color: white;
+    cursor: pointer;
+    width: 15vw;
+    font-size: 40px;
+    
+}
+
+
+.btnForm {
+    background-color: brown;
+    width: 13vw;
+    font-size: 30px;
+    border-radius: 40px;
+    font-family: fantasy;
+    color: khaki;
+    transition: 0.5s;
+    margin-top: 820px;
+    margin-left: 500px
+    
+
+
+}
+
 
 .button {
     background-color: brown;
@@ -172,4 +234,13 @@
     color: white;
     cursor: pointer;
     width: 15vw;
+}
+
+
+
+.formHell2 {
+    margin-bottom: 700px;
+    margin-left: 600px;
+    margin-right: 100px;
+
 }

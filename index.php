@@ -45,6 +45,7 @@
                     <input type="hidden" name="confirmar" value="A">
                     <input class= "button4" type="submit" value="Visualizar">
                 </form>
+
             </div>            
         </div>
     </div>
