@@ -16,4 +16,4 @@ Rpg Project using PHP, HTML, CSS and SQL.
 
 ## SQL Table
 
-![TabelaSQL](Isolated.png)
+![TabelaSQL](tabela.png)
