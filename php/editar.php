@@ -51,7 +51,7 @@
                             echo("<input class = 'textForm' type='text' name='txtN$i'>");                           
                         }                        
                     ?>
-                    <input class = "btnForm" type="submit" value="Atualizar">
+                    <input class = "btnForm" type="submit" value="Atualizar" name="atualizar">
                 </form>
                 <form class ="formHellPost2" action="../index.php" method="post"> 
                     <input class = "btnForm2" type="submit" value="Voltar">

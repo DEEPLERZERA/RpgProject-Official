@@ -19,9 +19,9 @@
                             switch ($i){
                                 case '1':
                                     echo("<label for='txtN$i'>Pontos de Vida</label>");                                    
-                                     break;
+                                    break;
                                 case '2':
-                                   echo("<label for='txtN$i'>Classe</label>");                                    
+                                    echo("<label for='txtN$i'>Classe</label>");                                    
                                     break;
                                 case '3':
                                     echo("<label for='txtN$i'>Tipo Geográfico</label>");                                    
@@ -48,12 +48,11 @@
                             echo("<input class = 'textForm' type='text' name='txtN$i'>");                           
                         }                        
                     ?>
-                    <input class = "btnForm" type="submit" value="Adicionar">
+                    <input class = "btnForm" type="submit" value="Adicionar" name="criar">
                 </form>
                 <form class ="formHellPost2" action="../index.php" method="post"> 
                     <input class = "btnForm2" type="submit" value="Voltar">
                 </form>
-
             </div>            
         </div>
     </div>
