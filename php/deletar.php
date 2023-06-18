@@ -19,12 +19,12 @@
                             switch ($i){
                                 case '1':
                                     echo("<label class = 'text1' for='txtN$i'>Digite ID</label>");                                    
-                                     break;
+                                break;
                             }                                                      
                             echo("<input class = 'textForm2' type='text' name='txtN$i'>");                           
                         }                        
                     ?>
-                    <input class = "btnForm" type="submit" value="Deletar">
+                    <input class = "btnForm" type="submit" value="Deletar" name="deletar">
                     </form>
                     <form class ="formHellPost2" action="../index.php" method="post"> 
                     <input class = "btnForm2" type="submit" value="Voltar">

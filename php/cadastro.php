@@ -19,9 +19,9 @@
                             switch ($i){
                                 case '1':
                                     echo("<label for='txtN$i'>Pontos de Vida</label>");                                    
-                                     break;
+                                    break;
                                 case '2':
-                                   echo("<label for='txtN$i'>Classe</label>");                                    
+                                    echo("<label for='txtN$i'>Classe</label>");                                    
                                     break;
                                 case '3':
                                     echo("<label for='txtN$i'>Tipo Geográfico</label>");                                    

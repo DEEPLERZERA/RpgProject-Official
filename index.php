@@ -11,9 +11,13 @@
 <body>
     <div class="container">
         <h1>Ficha RPG</h1>
+        <div>
+            <?php
+                include_once("./php/conexao.php");
+            ?>
+        </div>
         <div class="centralDiv">
             <div class="formHell">                
-                 
                             
                 <?php
                 // Verifica se o formulário foi submetido

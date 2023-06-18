@@ -16,8 +16,16 @@
                 
                     <h1 class = "textocara">Registro deletado</h1>
                     <?php 
-                         //FAÇA O PHP AQUI                     
-                                     
+                    include_once("./conexao.php");
+                        
+                    $id = $_POST['txtN1'];
+                    
+
+                    if(isset($_POST['deletar'])){
+                        $deletar = "DELETE FROM personagem WHERE id_personagem = $id";
+                        $deletarQ = mysqli_query($conn, $deletar);
+                    }                         
+                    
                     ?>
                 <form class ="formHellPost2" action="../index.php" method="post"> 
                     <input class = "btnForm2" type="submit" value="Voltar">
