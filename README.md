@@ -1,6 +1,6 @@
 # RpgProject-Official
-Rpg Project using PHP, HTML, CSS and SQL.
 
+Rpg Project focused on delivering a magical experience for all users around the world!
 ---
 
 ## Technologies Used
