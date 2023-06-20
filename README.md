@@ -1,6 +1,4 @@
-# RpgProject-Official
-
-Rpg Project focused on delivering a magical experience for all users around the world!
+# RpgProject-Official Rpg Project focused on delivering a magical experience for all users around the world!
 ---
 
 ## Technologies Used
