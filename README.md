@@ -16,7 +16,7 @@ Rpg Project focused on delivering a magical experience for all users around the 
 
 ## SQL Table
 
-![TabelaSQL](tabela.png)
+![TabelaSQL](tabel.png)
 
 
 ---
